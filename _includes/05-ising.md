@@ -1,0 +1,1 @@
+![ising](../quenching.png)
