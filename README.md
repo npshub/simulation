@@ -1,4 +1,4 @@
-# Statistical-Mechanics
+# Simulation in Physics
 Illustrating various topics in classical and quantum statistical mechanics through Monte Carlo simulations .
 
 Physical and mathematical subjects that are addressed include:
@@ -12,9 +12,9 @@ Physical and mathematical subjects that are addressed include:
 
 The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.
 
-<img src="img/ising.gif" width="200" height="200" /> <img src="img/XY_small.gif" width="200" height="200" /> <img src="img/heisenberg_small.gif" width="200" height="200" />
+<img src="fig/ising.gif" width="200" height="200" /> <img src="fig/XY_small.gif" width="200" height="200" /> <img src="fig/heisenberg_small.gif" width="200" height="200" />
 
-![Path integral Monte Carlo simulations](img/snapshot_00043.png)
+![Path integral Monte Carlo simulations](fig/snapshot_00043.png)
 
 ### Reference:
 1. Some resources are obtained from https://github.com/dgoekmen/Statistical-Mechanics with LISENCE retained.
